@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+{
+    "url": "https://xxxxxxx",
+    "timestamp": "xxxxxxx",
+    "api_level": "22",
+    "md5sum": "xxxxxxx",
+    "filename": "Slim-u8950-5.1.1.beta.0.7-xxxxxx.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/SlimLP-U8950/SlimAPI/master/CHANGELOG",
+    "incremental": ""
+    },
+  ],
+ "error": null
+}
