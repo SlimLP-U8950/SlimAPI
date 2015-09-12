@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+        <Stable>
+        <u8950>
+                        <Filename>Slim-5.1.1.beta.0.7-UNOFFICIAL-20150912-2118</Filename>
+                        <DownloadUrl>http://www.slimroms.net/index.php/downloads/dlsearch/viewcategory/1076-crespo</DownloadUrl>
+        </u8950>
+
+        </Stable>
+</SlimOTA>
