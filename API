@@ -2,11 +2,11 @@
  "id": null,
  "result": [
 {
-    "url": "https://xxxxxxx",
-    "timestamp": "xxxxxxx",
+    "url": "https://doc-0k-4o-docs.googleusercontent.com/docs/securesc/esbe1r9at8hblqcoeit27827pot6eslv/37ch19f0np2aore8t2qaulekesunhcat/1442138400000/16437289003406806640/16437289003406806640/0BxQPvFYSI42sS0I3WUZfcUNEYVE?e=download&nonce=nqm461mcf5ouq&user=16437289003406806640&hash=7hr70gh9rdttjmcgllitncg9f3b5t3o7",
+    "timestamp": "1442058828",
     "api_level": "22",
-    "md5sum": "xxxxxxx",
-    "filename": "Slim-u8950-5.1.1.beta.0.7-xxxxxx.zip",
+    "md5sum": "98ef3e8f5d453628c871aa2dd0360522",
+    "filename": "Slim-u8950-5.1.1.beta.0.7-UNOFFICIAL-20150913-1546.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/SlimLP-U8950/SlimAPI/master/CHANGELOG",
     "incremental": ""
