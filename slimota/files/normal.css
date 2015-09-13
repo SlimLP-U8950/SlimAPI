@@ -1,0 +1,102 @@
+/*--------------------------------------------------------------
+# Copyright (C) joomla-monster.com
+# License: http://www.joomla-monster.com/license.html Joomla-Monster Proprietary Use License
+# Website: http://www.joomla-monster.com
+# Support: info@joomla-monster.com
+---------------------------------------------------------------*/
+
+/*********** DETAILS OF LAYOUT ELEMENTS **********/
+
+#logo img, 
+#header img {
+    vertical-align: top;
+}
+
+#header p {
+    margin: 0;
+}
+
+#icons a:link, 
+#icons a:visited {
+    margin: 0 3px 0 0;
+    outline: none;
+}
+
+#rss a:link, 
+#rss a:visited {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+fieldset.input {
+    border: 0;
+}
+
+#fonts a {
+    width: 16px;
+    height: 16px;
+    float: right;
+    margin-left: 5px;
+}
+
+#logo a {
+    /*
+    text-indent: -5000px;
+    */
+}
+
+/**search**/
+
+#search .inputbox {
+    /*
+     border-top: 1px solid #5fa93a;
+     border-left: 1px solid #5fa93a;
+     */
+    border-bottom: 0px;
+    border-right: 0px;
+    height: 17px;
+    width: 189px;
+    font-weight: normal;
+    color: #ffffff;
+    /*
+     background: url(../images/default/bg_inputbox.gif) top left repeat-x;
+     */
+    margin: 0;
+    padding: 2px 0px 2px 4px;
+	float: left;
+}
+
+#search .button {
+    border: 0px;
+    width: 22px;
+    height: 22px;
+    /*
+     background: url(../images/default/bg_button.gif) left top no-repeat;
+     */
+    font-size: 0;
+	float: left;
+    font-weight: bold;
+    margin: 0 0 0 5px;
+    padding: 0;
+    text-indent: -5000px;
+}
+
+/** pagenav**/
+
+ul.pagenav {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+ul.pagenav li {
+	display: inline;
+	background: none;
+	margin: 0 2px;
+	padding: 0;
+}
+
+ul.pagenav li a:link,
+ul.pagenav li a:visited {
+	font-weight: bold;
+}

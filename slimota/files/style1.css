@@ -1,0 +1,183 @@
+/*--------------------------------------------------------------
+# Copyright (C) joomla-monster.com
+# License: http://www.joomla-monster.com/license.html Joomla-Monster Proprietary Use License
+# Website: http://www.joomla-monster.com
+# Support: info@joomla-monster.com
+---------------------------------------------------------------*/
+
+/*********** COLOR CHANGES FOR BLUE COLOR **********/
+
+body {
+    color: #0781aa;
+}
+
+#all {
+    background: url(../images/default/bg_top.gif) top left repeat-x;
+}
+
+#topmenuIcons {
+    background: #8c8c8c;
+}
+
+a:link, a:visited {
+    color: #8c8c8c;
+}
+
+#pathwayFonts {
+    border-top: 1px solid #d6e6eb;
+    border-bottom: 1px solid #d6e6eb;
+}
+
+#footer {
+    border-top: 3px solid #0781aa;
+}
+
+#bottom {
+    border-top: 3px solid #0781aa;
+}
+
+#search .inputbox {
+    border-top: 1px solid #8c8c8c;
+    border-left: 1px solid #8c8c8c;
+    background: url(../images/default/bg_inputbox.gif) top left repeat-x;
+}
+
+#search .button {
+    background: url(../images/default/bg_button.gif) left top no-repeat;
+}
+
+#fonts a#largeFont {
+    background: url(../images/default/big_font.gif) left top no-repeat;
+}
+
+#fonts a#smallFont {
+    background: url(../images/default/small_font.gif) left top no-repeat;
+}
+
+#fonts a#normalFont {
+    background: url(../images/default/default_font.gif) left top no-repeat;
+}
+
+#pathway h3, #pathway {
+    color: #006383;
+}
+
+/**global styles**/
+
+.inputbox, .validate-email {
+    border: 1px solid #d6e6eb;
+    background: #edf4f6;
+}
+
+input.button, button.button, button.validate, button {
+    background: #0781aa;
+}
+
+/**modules**/
+
+div.djmodule {
+    border: 1px solid #d7e7ec;
+}
+
+div.djmodule h3, 
+div.djmodule2 h3 {
+    color: #8c8c8c;
+}
+
+div.bg {
+    background: #edf4f6;
+}
+
+div.bgh3 h3 {
+    background: #edf4f6;
+}
+
+div.arrow h3 {
+    background: url(../images/default/arrow_bg.gif) left no-repeat;
+}
+
+/**menus**/
+
+ul.menu li, 
+ul#mainlevel li {
+    border-top: solid 1px #d7e7ec;
+}
+
+ul.menu li a:link, 
+ul.menu li a:visited, 
+ul#mainlevel li a {
+    color: #006383;
+    background: url(../images/default/bg_alink.png) left no-repeat;
+}
+
+ul.menu li ul li a:link, 
+ul.menu li ul li a:visited, 
+ul.menu li ul li.active a, 
+ul.menu li ul li.active li a, 
+ul.menu li ul li.active li li a {
+    color: #006383;
+}
+
+/**topmenu**/
+
+#topmenu li:hover, 
+#topmenu li.active {
+    background: #0781aa;
+}
+
+#topmenu ul li {
+    background: transparent;
+}
+
+#topmenu ul li ul li {
+    background: #0781aa;
+}
+
+#topmenu li:hover li:hover, 
+#topmenu li:hover li:hover li:hover, 
+#topmenu li:hover li:hover li:hover li:hover, 
+#topmenu li:hover li:hover li:hover li:hover li:hover {
+    background: #3f82a9;
+}
+
+#topmenu li li.active {
+    background: #3f82a9;
+}
+
+/**Joomla 1.6**/
+
+table.category {
+    border: 1px solid #019FD5;
+    width: 100%;
+}
+
+table.category th, table.category td {
+    padding: 2px 6px;
+}
+
+table.category thead {
+    background: #019FD5;
+}
+
+tr, td {
+    border: 1px solid #019FD5;
+}
+
+.trnoborder {
+    border: 0px solid #FFFFFF;
+}
+.tdnoborder {
+    border: 0px solid #FFFFFF;
+}
+
+input.validate-password, input.required,
+div.formelm input,
+div.formelm select {
+    border: 1px solid #d6e6eb;
+    background: #edf4f6;    
+}
+
+.readmore a:link, .readmore a:visited {
+    background: url(../images/default/bg_readon.gif) left no-repeat;
+    color: #8c8c8c;
+}
