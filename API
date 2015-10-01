@@ -2,13 +2,23 @@
  "id": null,
  "result": [
 {
-    "url": "http://fs1.d-h.st/download/00192/dyU3/Slim-u8950-OTA-test1.zip",
-    "timestamp": "1342059828",
+    "url": "https://www.dropbox.com/s/wepcf2clgg1yt2x/Slim-u8950-OTA-test1.zip?dl=1",
+    "timestamp": "1443718108",
     "api_level": "22",
-    "md5sum": "fc88db7c2c4618da1200e60e5d4f4857",
+    "md5sum": "92ee907265e69c110cde582383658033",
     "filename": "Slim-u8950-OTA-test1.zip",
     "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/SlimLP-U8950/SlimAPI/master/CHANGELOG",
+    "changes": "https://raw.githubusercontent.com/ksrt12/SlimAPI/master/CHANGELOG",
+    "incremental": ""
+    },
+{
+    "url": "https://www.dropbox.com/s/n80ewqu8foqafk4/Slim-u8950-5.1.1.beta.0.8-UNOFFICIAL-20150929-2028.zip?dl=1",
+    "timestamp": "1443538551",
+    "api_level": "22",
+    "md5sum": "4aa3b6ca400da5dcef07cfb4b200dd96",
+    "filename": "Slim-u8950-5.1.1.beta.0.8-UNOFFICIAL-20150929-2028.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/ksrt12/SlimAPI/master/CHANGELOG",
     "incremental": ""
     },
   ],
