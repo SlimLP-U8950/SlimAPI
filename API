@@ -2,6 +2,16 @@
  "id": null,
  "result": [
 {
+    "url": "https://leto9d.storage.yandex.net/rdisk/d2bc24cdf7eddc5c9bf075ac90c72b6ad6cc2a6035c51cd503c8c7bfee44625f/5614ae2d/AKQgDN-2x_QDBkVQcOvknciBmVco-mYXVAZjMJFc5e0zOO9ieLIB1lwe0Z246j_J-cTXuC5g7WlNEX7-YN6zVQ==?uid=0&filename=Slim-u8950-5.1.1.beta.0.9-UNOFFICIAL-20151006-2035.zip&disposition=attachment&hash=w0uCkaGsXOA9Wk/Vi6P7GReeKYXwHziVjPa6shzE8%2BA%3D&limit=0&content_type=application%2Fzip&fsize=231510837&hid=c231ba99d36f6b5f47253ad13c26cf65&media_type=compressed&tknv=v2&rtoken=04f999237cf19b847179f1fef27a5dcd&force_default=no&ycrid=na-5c32ef644b062a3b6d3d81b7859ddcca-downloader8g",
+    "timestamp": "1444143950",
+    "api_level": "22",
+    "md5sum": "782ef0dc1bd2492fe6a34c50706b5b63",
+    "filename": "Slim-u8950-5.1.1.beta.0.9-UNOFFICIAL-20151006-2035.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/ksrt12/SlimAPI/master/CHANGELOG",
+    "incremental": ""
+    },
+{
     "url": "https://www.dropbox.com/s/wepcf2clgg1yt2x/Slim-u8950-OTA-test1.zip?dl=1",
     "timestamp": "1443718108",
     "api_level": "22",
