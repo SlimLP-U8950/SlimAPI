@@ -8,7 +8,7 @@
     "md5sum": "65a0d62d8a5f413a6d4e84546465c7e7",
     "filename": "Slim-u8950-5.1.1.beta.0.10-UNOFFICIAL-20151101-1121.zip",
     "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/ksrt12/SlimAPI/master/CHANGELOG",
+    "changes": "https://raw.githubusercontent.com/U8950-Projects/API_Updater/slimlp/CHANGELOG",
     "incremental": ""
     },
   ],
