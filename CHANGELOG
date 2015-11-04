@@ -1,6 +1,13 @@
+SlimLP beta 0.11
+=======================
+* Update kernel to 3.4.110
+* Repo sync 03.11.2015
+* SlimLPUpdater
+* GAPPS
+
 SlimLP beta 0.10
 =======================
-* Update kernel
+* Update defconfig
 * Repo sync 31.10.2015
 
 SlimLP beta 0.9
