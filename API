@@ -8,7 +8,7 @@
     "md5sum": "8b3d79838467bcbe5676f2981949652a",
     "filename": "Slim-u8950-kernel-2015-11-06.zip",
     "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/U8950-Projects/API_Updater/slimlp/CHANGELOG",
+    "changes": "https://raw.githubusercontent.com/U8950-Projects/API_Updater/slimlp/CHANGELOG_KERNEL",
     "incremental": ""
     },
 {
