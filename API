@@ -1,6 +1,16 @@
 {
  "id": null,
  "result": [
+ {
+    "url": "https://www.dropbox.com/s/7w79pwuh1nomye6/Slim-u8950-kernel-2015-11-06.zip?dl=1",
+    "timestamp": "1446809411",
+    "api_level": "22",
+    "md5sum": "8b3d79838467bcbe5676f2981949652a",
+    "filename": "Slim-u8950-kernel-2015-11-06.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/U8950-Projects/API_Updater/slimlp/CHANGELOG",
+    "incremental": ""
+    },
 {
     "url": "https://www.dropbox.com/s/htvs4nbc4dsv5cr/Slim-u8950-OTA-GAPPS-ADD-ON-20151023.zip?dl=1",
     "timestamp": "1446627312",
@@ -11,9 +21,6 @@
     "changes": "https://raw.githubusercontent.com/U8950-Projects/API_Updater/slimlp/CHANGELOG",
     "incremental": ""
     },
-  ],
- "error": null
-}
 {
     "url": "https://www.dropbox.com/s/u1fybg2fxb67is8/Slim-u8950-5.1.1.beta.0.10-UNOFFICIAL-20151101-1121.zip?dl=1",
     "timestamp": "1446312524",
